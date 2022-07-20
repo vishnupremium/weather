@@ -1,2 +1,2 @@
 # weather
-https://vishnupremium.github.io/weather/ see app
+see app:[https://vishnupremium.github.io/weather/]
