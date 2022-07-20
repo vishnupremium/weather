@@ -1,2 +1,2 @@
 # weather
-[see app](https://vishnupremium.github.io/weather/)
+[Watch Weather-App](https://vishnupremium.github.io/weather/)
